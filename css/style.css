@@ -154,7 +154,7 @@ nav.ui.menu .item .icon {
   vertical-align: sub;
 }
 
-nav.ui.menu .item[href="/"], nav.ui.menu .item[href="https://twitter.com/typelife"], nav.ui.menu .item[href="https://github.com/nhodges"] {
+nav.ui.menu .item[href="/"], nav.ui.menu .item[href="/labs"], nav.ui.menu .item[href="https://twitter.com/typelife"], nav.ui.menu .item[href="https://github.com/nhodges"] {
   max-width: 60px;
 }
 
@@ -172,6 +172,24 @@ nav.ui.menu .item[href="/"]:hover {
 }
 
 nav.ui.menu .item[href="/"]:hover:after {
+  opacity: 1;
+  padding: 0 0 0 45px;
+}
+
+nav.ui.menu .item[href="/labs"]:after {
+  content: "Labs";
+  height: 60px;
+  line-height: 60px;
+  padding: 0;
+  font-size: 18px;
+  opacity: 0;
+}
+
+nav.ui.menu .item[href="/labs"]:hover {
+  max-width: 125px;
+}
+
+nav.ui.menu .item[href="/labs"]:hover:after {
   opacity: 1;
   padding: 0 0 0 45px;
 }

@@ -3,7 +3,7 @@
   <channel>
     <title>irunbackwards.com</title>
     <link>http://irunbackwards.com</link>
-    <pubDate>Sat, 25 Apr 2015 11:14:16 -0000</pubDate>
+    <pubDate>Sun, 26 Apr 2015 08:33:49 -0000</pubDate>
     
     <item>
       <title>Spree Pigment</title>
@@ -30,7 +30,18 @@
       <pubDate>Sat, 25 Apr 2015 02:20:00 +0000</pubDate>
       <author>Nuri Hodges</author>
       <guid>http://irunbackwards.com/portfolio/humanthology</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Position&lt;/strong&gt;: Lead Frontend Developer&lt;/p&gt;
+
+&lt;p&gt;In July of 2013, I left the comfort of warm Southern California to join a startup in Silicon Valley that was focusing on creating a platform that curated and highlighted the human experience. Humanthology wanted to give a soapbox to the generally unheard and foster a sense of community we seem to be falling out of touch with. I was excited to share in that vision.&lt;/p&gt;
+
+&lt;p&gt;Humanthology was at the forefront of the race to be the next &amp;ldquo;new age&amp;rdquo; publication platform. As lead frontend developer, I crafted and implemented a user experience befitting the modern day of multimedia.&lt;/p&gt;
+
+&lt;p&gt;Drawing on inspiration from meticulously tailored, beautiful articles such as &lt;a href=&quot;http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek&quot;&gt;Snow Fall: The Avalanche at Tunnel Creek&lt;/a&gt;, &lt;a href=&quot;http://pitchfork.com/features/cover-story/reader/daft-punk/&quot;&gt;Pitchfork&amp;rsquo;s Daft Punk Cover Story&lt;/a&gt;, and &lt;a href=&quot;http://www.complex.com/covers/danny-brown-interview-sky-high-2013-cover-story/&quot;&gt;Danny Brown Interview: Sky High&lt;/a&gt;. We set out to provide this level of content publishing to the common author, to Joe Schmoe WordPress blog operator &amp;ndash; parallax, HTML5 video, CSS animation, image carousels, the whole kit and kaboodle! These have become intrinsic to the way we share information on the internet and no one should have a barrier to use such constructs.&lt;/p&gt;
+
+&lt;p&gt;We also implemented crowdfunding functionality on the platform. As an author, you could publish a story with a crowdfunding goal. When that goal was reached, the total would be split between the author and a non-profit organization of their choice, usually an organization related to the story itself.&lt;/p&gt;
+
+&lt;p&gt;Humanthology&amp;rsquo;s growth was overshadowed by similar platforms with larger teams and venture capital backing, specifically Medium. It remained in a nascent state until the platform was retired in 2014.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -68,7 +79,17 @@
       <pubDate>Sat, 25 Apr 2015 01:01:00 +0000</pubDate>
       <author>Nuri Hodges</author>
       <guid>http://irunbackwards.com/portfolio/recon-api</guid>
-      <description></description>
+      <description>&lt;p&gt;Recon API began as a passion project trying to ease the pains of communication between indie app developers and frustrated users. Its intent was to convert negative reviews on Google Play (and eventually, the App Store) into meaningful insight collected via integration with Recon API.&lt;/p&gt;
+
+&lt;p&gt;It was built over a weekend and launched the following Monday. It was used in almost all of the Android applications published by Thinglet, and saw some traction in the Android developer community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hightlights&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sourced and helped produce the &lt;a href=&quot;https://vimeo.com/33765887&quot;&gt;Recon API intro video&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learned (barely) enough Java in one weekend to throw together the Android SDK.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

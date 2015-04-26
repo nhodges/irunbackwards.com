@@ -62,6 +62,8 @@ body,
 
 .st-menu {
 	background: #1b1c1d; /* #48a770; */
+	border-right: 1px solid #181818;
+	box-shadow: 0 0 50px;
 	height: 100%;
 	left: 0;
 	max-width: 100%;
