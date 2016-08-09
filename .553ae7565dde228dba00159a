@@ -1,5 +1,5 @@
 ---
-time: 1470708458
+time: 1470709831
 inventory:
   "/portfolio/index.html":
     md5: feb59348b308fac71b91ba0f7c7b00c3
@@ -8,8 +8,8 @@ inventory:
     md5: feb59348b308fac71b91ba0f7c7b00c3
     time: 1470708441
   "/portfolio/bernie-2016/index.html":
-    md5: f1fe33122d58aa1b80decb616148da10
-    time: 1470708441
+    md5: eb2ea621d58fbaeec28e63f11f22d288
+    time: 1470709827
   "/portfolio/spree-pigment/index.html":
     md5: a8a9afeb63c486fa2d84dd3604b2574e
     time: 1470708441
@@ -113,8 +113,8 @@ inventory:
     md5: 29ceec23a6660886fec187764f04185a
     time: 1470708442
   "/feed.xml":
-    md5: 7481292633dd4a7bbfd218a3999faa87
-    time: 1470708442
+    md5: a618277703ba3ac66ca749bbbc9031ed
+    time: 1470709828
   "/assets/barterball.png":
     md5: 3c5829083c5a3ce4f0ed740ea3a9476d
     time: 1429955847
@@ -196,6 +196,9 @@ inventory:
   "/assets/service-convert-to-jpeg.zip":
     md5: 1a58fef315d18194487382457e644740
     time: 1470708442
+  "/assets/portfolio-connectwithbernie-1.png":
+    md5: 9f5f32cedb10330c68d3fabb7e55a9a1
+    time: 1470709828
   "/assets/humanthology-2.png":
     md5: 877e9feb46458940dee0f4029ddd5f2a
     time: 1429955872
@@ -208,6 +211,9 @@ inventory:
   "/assets/reconapi-2.png":
     md5: c7a2f0e2db400d5332a25d6cabd8db8b
     time: 1429955874
+  "/assets/portfolio-connectwithbernie-2.png":
+    md5: 600c194e7028dbce26ae1137a8976a17
+    time: 1470709828
   "/assets/humanthology-3.png":
     md5: 8a64400f47b05e34934edde361f0e680
     time: 1429955874
