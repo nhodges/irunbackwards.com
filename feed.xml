@@ -3,7 +3,40 @@
   <channel>
     <title>irunbackwards.com</title>
     <link>http://irunbackwards.com</link>
-    <pubDate>Sun, 26 Apr 2015 08:33:49 -0000</pubDate>
+    <pubDate>Tue, 09 Aug 2016 02:07:22 -0000</pubDate>
+    
+    <item>
+      <title>Bernie 2016</title>
+      <link>http://irunbackwards.com/portfolio/bernie-2016</link>
+      <pubDate>Tue, 09 Aug 2016 01:57:00 +0000</pubDate>
+      <author>Nuri Hodges</author>
+      <guid>http://irunbackwards.com/portfolio/bernie-2016</guid>
+      <description>&lt;p&gt;I had the fortunate opportunity to work with the Sanders Campaign and some very talented volunteers to build Connect with Bernie, an official campaign tool designed to coordinate real, targeted action and help win the 2016 presidential election.&lt;/p&gt;
+
+&lt;p&gt;As an individual contributor, I coordinated with the rest of the team via Pivotal Tracker and Slack to implement functionality and fix bugs in the web application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installing Ubuntu on a Nexus 7 (2012/grouper)</title>
+      <link>http://irunbackwards.com/blog/installing-ubuntu-nexus-7-2012-grouper</link>
+      <pubDate>Sun, 27 Mar 2016 09:24:00 +0000</pubDate>
+      <author>Nuri Hodges</author>
+      <guid>http://irunbackwards.com/blog/installing-ubuntu-nexus-7-2012-grouper</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had an old Nexus 7 tablet (original, from 2012) lying around collecting dust, progressively getting slower with each and every Android operating system update. Personally, I find it difficult to part with technology before its true, functional end-of-life. Since the Nexus 7 is a pretty powerful machine, and the resale value is considerably low, I decided to try to put it to good use.&lt;/p&gt;
+
+&lt;p&gt;For the tutorial, I&amp;rsquo;m going to assume some basic familiarity (meaning it&amp;rsquo;s installed already) with the Android platform tools, namely adb and fastboot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEF/RAW to JPEG Conversion Using OS X&#39;s Automator</title>
+      <link>http://irunbackwards.com/labs/nef-raw-to-jpeg-conversion-using-os-x-automator</link>
+      <pubDate>Wed, 29 Apr 2015 06:45:00 +0000</pubDate>
+      <author>Nuri Hodges</author>
+      <guid>http://irunbackwards.com/labs/nef-raw-to-jpeg-conversion-using-os-x-automator</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spree Pigment</title>
