@@ -3,7 +3,51 @@
   <channel>
     <title>irunbackwards.com</title>
     <link>http://irunbackwards.com</link>
-    <pubDate>Mon, 08 Aug 2016 19:30:28 -0700</pubDate>
+    <pubDate>Sat, 20 Aug 2016 07:46:24 -0700</pubDate>
+    
+    <item>
+      <title>The Hacker Manifesto</title>
+      <link>http://irunbackwards.com/blog/the-hacker-manifesto</link>
+      <pubDate>Fri, 19 Aug 2016 08:23:00 -0700</pubDate>
+      <author>Nuri Hodges</author>
+      <guid>http://irunbackwards.com/blog/the-hacker-manifesto</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally published as &lt;a href=&quot;http://phrack.org/issues/7/3.html#article&quot;&gt;&amp;ldquo;The Conscience of a Hacker&amp;rdquo;&lt;/a&gt; in Phrack by The Mentor &lt;a href=&quot;https://en.wikipedia.org/wiki/Loyd_Blankenship&quot;&gt;(Loyd Blankenship)&lt;/a&gt; on January 8, 1986.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Another one got caught today, it&amp;rsquo;s all over the papers.  &amp;ldquo;Teenager Arrested in Computer Crime Scandal&amp;rdquo;, &amp;ldquo;Hacker Arrested after Bank Tampering&amp;rdquo;&amp;hellip;&lt;br&gt;
+Damn kids. They&amp;rsquo;re all alike.&lt;/p&gt;
+
+&lt;p&gt;But did you, in your three-piece psychology and 1950&amp;rsquo;s technobrain, ever take a look behind the eyes of the hacker?  Did you ever wonder what made him tick, what forces shaped him, what may have molded him?&lt;br&gt;
+I am a hacker, enter my world&amp;hellip;&lt;br&gt;
+Mine is a world that begins with school&amp;hellip; I&amp;rsquo;m smarter than most of the other kids, this crap they teach us bores me&amp;hellip;&lt;br&gt;
+Damn underachiever.  They&amp;rsquo;re all alike.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m in junior high or high school.  I&amp;rsquo;ve listened to teachers explain for the fifteenth time how to reduce a fraction.  I understand it.  &amp;ldquo;No, Ms. Smith, I didn&amp;rsquo;t show my work.  I did it in my head&amp;hellip;&amp;rdquo;&lt;br&gt;
+Damn kid.  Probably copied it.  They&amp;rsquo;re all alike.  &lt;/p&gt;
+
+&lt;p&gt;I made a discovery today.  I found a computer.  Wait a second, this is cool.  It does what I want it to.  If it makes a mistake, it&amp;rsquo;s because I screwed it up.  Not because it doesn&amp;rsquo;t like me&amp;hellip;&lt;br&gt;
+  Or feels threatened by me&amp;hellip;&lt;br&gt;
+  Or thinks I&amp;rsquo;m a smart ass&amp;hellip;&lt;br&gt;
+  Or doesn&amp;rsquo;t like teaching and shouldn&amp;rsquo;t be here&amp;hellip;&lt;br&gt;
+Damn kid.  All he does is play games.  They&amp;rsquo;re all alike.&lt;/p&gt;
+
+&lt;p&gt;And then it happened&amp;hellip; a door opened to a world&amp;hellip; rushing through the phone line like heroin through an addict&amp;rsquo;s veins, an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought&amp;hellip; a board is found.&lt;br&gt;
+&amp;ldquo;This is it&amp;hellip; this is where I belong&amp;hellip;&amp;rdquo;&lt;br&gt;
+I know everyone here&amp;hellip; even if I&amp;rsquo;ve never met them, never talked to them, may never hear from them again&amp;hellip; I know you all&amp;hellip;&lt;br&gt;
+Damn kid.  Tying up the phone line again.  They&amp;rsquo;re all alike&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;You bet your ass we&amp;rsquo;re all alike&amp;hellip; we&amp;rsquo;ve been spoon-fed baby food at school when we hungered for steak&amp;hellip; the bits of meat that you did let slip through were pre-chewed and tasteless.  We&amp;rsquo;ve been dominated by sadists, or ignored by the apathetic.  The few that had something to teach found us willing pupils, but those few are like drops of water in the desert.&lt;/p&gt;
+
+&lt;p&gt;This is our world now&amp;hellip; the world of the electron and the switch, the beauty of the baud.  We make use of a service already existing without paying for what could be dirt-cheap if it wasn&amp;rsquo;t run by profiteering gluttons, and you call us criminals.  We explore&amp;hellip; and you call us criminals.  We seek after knowledge&amp;hellip; and you call us criminals.  We exist without skin color, without nationality, without religious bias&amp;hellip; and you call us criminals. You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it&amp;rsquo;s for our own good, yet we&amp;rsquo;re the criminals.&lt;/p&gt;
+
+&lt;p&gt;Yes, I am a criminal.  My crime is that of curiosity.  My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for.&lt;/p&gt;
+
+&lt;p&gt;I am a hacker, and this is my manifesto.  You may stop this individual, but you can&amp;rsquo;t stop us all&amp;hellip; after all, we&amp;rsquo;re all alike.&lt;/p&gt;
+
+&lt;p&gt;+++The Mentor+++&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Bernie 2016</title>
@@ -18,14 +62,32 @@
     </item>
     
     <item>
-      <title>Installing Ubuntu on a Nexus 7 (2012/grouper)</title>
-      <link>http://irunbackwards.com/blog/installing-ubuntu-nexus-7-2012-grouper</link>
-      <pubDate>Sun, 27 Mar 2016 02:24:00 -0700</pubDate>
+      <title>A New Hope</title>
+      <link>http://irunbackwards.com/blog/a-new-hope</link>
+      <pubDate>Fri, 01 Jan 2016 09:00:00 -0800</pubDate>
       <author>Nuri Hodges</author>
-      <guid>http://irunbackwards.com/blog/installing-ubuntu-nexus-7-2012-grouper</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve had an old Nexus 7 tablet (original, from 2012) lying around collecting dust, progressively getting slower with each and every Android operating system update. Personally, I find it difficult to part with technology before its true, functional end-of-life. Since the Nexus 7 is a pretty powerful machine, and the resale value is considerably low, I decided to try to put it to good use.&lt;/p&gt;
+      <guid>http://irunbackwards.com/blog/a-new-hope</guid>
+      <description>&lt;p&gt;This past year has been one of tremendous change and growth, both for myself and the world. In this first post, I&amp;rsquo;d like to take the opportunity to share some of the things I&amp;rsquo;ve learned, worked on (successes and failures), and am looking forward to accomplishing in the coming year.&lt;/p&gt;
 
-&lt;p&gt;For the tutorial, I&amp;rsquo;m going to assume some basic familiarity (meaning it&amp;rsquo;s installed already) with the Android platform tools, namely adb and fastboot.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;August 12, 2015&lt;/strong&gt;&lt;br&gt;
+Decided to embrace a vegan lifestyle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December 1, 2015&lt;/strong&gt;&lt;br&gt;
+Established a regular exercise routine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This year, I would like to broaden my horizons in a few areas that have always been of interest to me, but never pursued in any routine fashion:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Art&lt;/strong&gt;&lt;br&gt;
+I am challenging myself to consistently draw this year, and maybe learn a new style or two. As always, take more pictures in more places.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Read&lt;/strong&gt;&lt;br&gt;
+When I was younger, I always had my nose in a book. Now, most of the material I consume is shorter form: news, blog or online publication content, etc. I recently subscribed to Audible and have been averaging 1 book a month so far, which I&amp;rsquo;m pretty happy about. (Please, send your recommendations!)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write&lt;/strong&gt;&lt;br&gt;
+I am going to write more, a lot more. I registered The Advocateur and The Collecteur and plan to publish content in a consistent manner.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yoga&lt;/strong&gt;&lt;br&gt;
+I want to establish a practice of yoga for myself. It&amp;rsquo;s something that I&amp;rsquo;ve done here and there in the past, but never regularly. I know how hugely valuable it could be to me and the time is now to tap into that.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

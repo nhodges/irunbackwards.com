@@ -21,7 +21,7 @@ article, header, nav, section {
     display: block;
 }
 
-/* Layout 
+/* Layout
 ================================ */
 
 /*.wrap{
@@ -52,7 +52,7 @@ article, header, nav, section {
 
 }
 
-/* Text 
+/* Text
 ================================ */
 
 a{
@@ -117,6 +117,10 @@ a{
   margin-top: 60px;
   min-height: 100%;
   position: relative;
+}
+
+.content.blog {
+  margin-top: 60px;  
 }
 
 
@@ -302,17 +306,43 @@ nav.ui.menu .item[href="https://github.com/nhodges"]:hover:after {
 
 .content-sidebar {
   background-color: #333;
+  color: #fff;
   height: auto;
-  min-height: 100%;
+  min-height: 100vh;
   padding: 25px;
   position: absolute;
   right: 0;
   top: 0;
   width: 25%;
+  z-index: 5;
 }
 
 .content-sidebar img {
   display: block;
   margin-bottom: 25px;
   max-width: 100%;
+}
+
+/* Blog */
+
+.content.blog .posts {
+  padding: 20px;
+}
+
+.content.blog .content-sidebar ul {
+  margin: 0;
+  padding: 0;
+}
+
+.content.blog .content-sidebar ul li {
+  display: block;
+  float: left;
+  list-style-type: none;
+  padding: 0;
+  width: 25%;
+}
+
+.content.blog .content-sidebar .shots .shots--shot img  {
+  display: block;
+  margin-bottom: 0;
 }

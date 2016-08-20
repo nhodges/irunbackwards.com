@@ -1,87 +1,87 @@
 ---
-time: 1470709831
+time: 1471704398
 inventory:
   "/portfolio/index.html":
-    md5: feb59348b308fac71b91ba0f7c7b00c3
-    time: 1470708441
+    md5: 69eb60144610fbdb255c85ac16ec22dd
+    time: 1471704382
   "/index.html":
-    md5: feb59348b308fac71b91ba0f7c7b00c3
-    time: 1470708441
+    md5: 69eb60144610fbdb255c85ac16ec22dd
+    time: 1471704382
   "/portfolio/bernie-2016/index.html":
-    md5: eb2ea621d58fbaeec28e63f11f22d288
-    time: 1470709827
+    md5: 69f13998b10a6fbc3e83949644f096c0
+    time: 1471704382
   "/portfolio/spree-pigment/index.html":
-    md5: a8a9afeb63c486fa2d84dd3604b2574e
-    time: 1470708441
+    md5: 33f7669b487d4b53b72be409a7d27d4b
+    time: 1471704382
   "/portfolio/zurb-foundation/index.html":
-    md5: e50d6095413713c24d82cb7c7f3da23c
-    time: 1470708441
+    md5: ea69fcf1abe9d9f5b997f20d1717aeb1
+    time: 1471704382
   "/portfolio/humanthology/index.html":
-    md5: 91144432f9a4fb9159eb20641753b1c6
-    time: 1470708441
+    md5: 6b89585b210663af9e41d88651d14af9
+    time: 1471704382
   "/portfolio/ratemyhospital/index.html":
-    md5: e5e705882f09dc067b24fa122718eef6
-    time: 1470708441
+    md5: 082dcfcf7a446396be8b0a3925ea497a
+    time: 1471704383
   "/portfolio/educate-2-envision/index.html":
-    md5: e5d65ff57ea20d92b4bad603ed3182f2
-    time: 1470708441
+    md5: d22b149af0b9172d4724d8fb0a55c466
+    time: 1471704383
   "/portfolio/barterball/index.html":
-    md5: 2782654168e77d24931a5f7c26684208
-    time: 1470708441
+    md5: 2a69b43b072e9946c2f266f342c1f31f
+    time: 1471704383
   "/portfolio/recon-api/index.html":
-    md5: a5a00cb98ab6aafd7e8a7178643cb103
-    time: 1470708441
+    md5: 6e09d6636dcbb2ce3a15d524a043b824
+    time: 1471704383
   "/portfolio/fvel-me/index.html":
-    md5: f90c74d09812d5b7d044e01678da473d
-    time: 1470708442
+    md5: e3044bb5c6307f0ed5272f0114b45560
+    time: 1471704383
   "/portfolio/thinglet/index.html":
-    md5: ae9a02845fa7217c4a1a6c0eeb796420
-    time: 1470708442
+    md5: a9fd0a62f7864ed69d984b040c08cced
+    time: 1471704383
   "/portfolio/diablo-3-knowledge-base/index.html":
-    md5: a00ce638ac6a441d76f3effb4c9e1724
-    time: 1470708442
+    md5: 27f1eab6e7017678c47ee7ba3414370c
+    time: 1471704383
   "/portfolio/archive/index.html":
-    md5: 4001ace038c358528a2bcb2def14198f
-    time: 1470708442
+    md5: d52314ab1020976e75d96e414b769749
+    time: 1471704383
   "/portfolio/tags/index.html":
-    md5: f88a77fa021acc55c09ad505c9892a50
-    time: 1470708442
+    md5: fc3859524f0fd3cdf5a950db6b45c242
+    time: 1471704383
   "/portfolio/tags/javascript/index.html":
-    md5: 54a0de686503ecec261f23318a729eb9
-    time: 1470708442
+    md5: 35bf37b37504caa26d61d7604c38fff2
+    time: 1471704383
   "/portfolio/tags/css/index.html":
-    md5: a11f9812cd7c39f7d1950eb6953b4c0f
-    time: 1470708442
+    md5: 51025afcd3c10c8aebc0890aae72d21e
+    time: 1471704383
   "/portfolio/tags/angularjs/index.html":
-    md5: 9354840398093c78c8379a64d1e79a5b
-    time: 1470708442
+    md5: c354483a427d043a6d0208eedc0fda93
+    time: 1471704383
   "/portfolio/tags/mongodb/index.html":
-    md5: 2a1a0145bb7fe53edb78fd014e741d48
-    time: 1470708442
+    md5: b96d782732b88c1c732d3b3376d09636
+    time: 1471704383
   "/portfolio/tags/node-dot-js/index.html":
-    md5: 5d3c448ba69d99c70b3ceda6d3449eae
-    time: 1470708442
+    md5: c1f7fc5b352a4aecafe43af5213ab36a
+    time: 1471704383
   "/portfolio/tags/express/index.html":
-    md5: dab3ec21cda528badd688b472e8012fe
-    time: 1470708442
+    md5: ff2465ecf20511a877776bba2075122f
+    time: 1471704383
   "/portfolio/tags/bootstrap/index.html":
-    md5: aa248050c7713ca60ff45188997671cc
-    time: 1470708442
+    md5: ee21c6335e067d7213e7c072282a48b6
+    time: 1471704383
   "/portfolio/tags/php/index.html":
-    md5: 0ccf1d81d5370df6e85750086c484fe6
-    time: 1470708442
+    md5: 51dca459c6ab923969429b6f8745cc4b
+    time: 1471704383
   "/portfolio/tags/codeigniter/index.html":
-    md5: 2f1ba200f9345d39410f60f5fa398d17
-    time: 1470708442
+    md5: 17d1383edf293dfd1940c5f15fc36d9c
+    time: 1471704383
   "/portfolio/tags/chart-dot-js/index.html":
-    md5: 3a283b3edf0fead7bd7967ac08eea7af
-    time: 1470708442
+    md5: 234b8017edb88122f5a95f58782b34bb
+    time: 1471704383
   "/portfolio/tags/mobile/index.html":
-    md5: 467891aaca0def2da0322f7f6ebb53c3
-    time: 1470708442
+    md5: 38804c24d76b09b682c69c681c4d0264
+    time: 1471704383
   "/portfolio/tags/wordpress/index.html":
-    md5: b998e515f4b21e01f4db1796955b5cac
-    time: 1470708442
+    md5: ba035394926d5b16ff2c204d22acd593
+    time: 1471704383
   "/labs/index.html":
     md5: 81e09419841f1740ed11919dca1aec39
     time: 1470708442
@@ -95,26 +95,29 @@ inventory:
     md5: d752c9e56e18c5e46f42c94e350758d1
     time: 1470708442
   "/blog/index.html":
-    md5: f2d16c8f11d60c3d4dc6b9122fb7d05b
-    time: 1470708442
-  "/blog/installing-ubuntu-nexus-7-2012-grouper/index.html":
-    md5: fb7d5c39278149c0061e995c3c1f4a3b
-    time: 1470708442
+    md5: 36882533ebf879fc3c43c68dccfe3853
+    time: 1471704383
+  "/blog/the-hacker-manifesto/index.html":
+    md5: b22571fac8e20b7287b6fc51be67be55
+    time: 1471704384
+  "/blog/a-new-hope/index.html":
+    md5: d0fb729f07d0c169b609ec30bfb04803
+    time: 1471704384
   "/blog/archive/index.html":
-    md5: e77d43faf5f0fe703a13dbc194b382cb
-    time: 1470708442
+    md5: 0894362eb22b5ccfac9753b8a85c9338
+    time: 1471704384
   "/blog/tags/index.html":
-    md5: 49b4e6e9aedcbf9ac5afc23a68b573f9
-    time: 1470708442
+    md5: cbcacf580dc457c7fbd5b9c0cd083d02
+    time: 1471704384
   "/CNAME":
     md5: 00d516aafeed45656bc0c4fc23c24312
     time: 1429955846
   "/sitemap.xml":
-    md5: 29ceec23a6660886fec187764f04185a
-    time: 1470708442
+    md5: 61bb973e6fc5d86c05b79cb47679fed5
+    time: 1471704384
   "/feed.xml":
-    md5: a618277703ba3ac66ca749bbbc9031ed
-    time: 1470709828
+    md5: 0050a99dd1b7e75d98568cfbdd88fbc3
+    time: 1471704384
   "/assets/barterball.png":
     md5: 3c5829083c5a3ce4f0ed740ea3a9476d
     time: 1429955847
@@ -163,15 +166,15 @@ inventory:
   "/css/sidebar.css":
     md5: 8dc9693af45f67aac76e99698ffa96e0
     time: 1430037230
-  "/css/style.css":
-    md5: 1dfbb0e41732e677c1156b1dc40f496e
-    time: 1430037230
   "/assets/automator.png":
     md5: 0a3e8cb5b8029922fed7e03ae20a1b27
     time: 1470708442
   "/assets/portfolio-bernie2016.png":
     md5: 23a895be85b7eacd702084829c8dfb88
     time: 1470708442
+  "/css/style.css":
+    md5: a6ef584592a5feab213fdc9e26bda20f
+    time: 1471704384
   "/assets/fvelme-1.png":
     md5: f7152fb9bf7e683ac9aadc4a4761f469
     time: 1429955851

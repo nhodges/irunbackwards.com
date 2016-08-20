@@ -7,58 +7,135 @@
   <title>irunbackwards.com | Blog</title>
   <link rel="canonical" href="http://irunbackwards.com/blog" />
   <link rel="alternate" type="application/rss+xml" href="http://irunbackwards.com/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" />
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.0/semantic.min.css" />
   <link rel="stylesheet" type="text/css" href="/css/style.css" />
+  <link rel="stylesheet" type="text/css" href="/css/sidebar.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="//codepen.io/tylergaw/pen/PqzmyZ.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-31546195-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 </head>
+
 <body>
 
-  <div class="wrap">
+  <div class="wrap st-container" id="st-container">
 
-    <header class="primary-header">
-      <h1 class="site-title"><a href="/">irunbackwards.com</a></h1>
+    <div class="st-menu st-effect">
+      <div id="wufoo-m1ei2rud0mgb7vw">
+        Fill out my <a href="https://formics.wufoo.com/forms/m1ei2rud0mgb7vw">online form</a>.
+      </div>
+      <script type="text/javascript">var m1ei2rud0mgb7vw;(function(d, t) {
+        var s = d.createElement(t), options = {
+        'userName':'formics',
+        'formHash':'m1ei2rud0mgb7vw',
+        'autoResize':true,
+        'height':'517',
+        'async':true,
+        'host':'wufoo.com',
+        'header':'show',
+        'ssl':true};
+        s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+        s.onload = s.onreadystatechange = function() {
+        var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+        try { m1ei2rud0mgb7vw = new WufooForm();m1ei2rud0mgb7vw.initialize(options);m1ei2rud0mgb7vw.display(); } catch (e) {}};
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+        })(document, 'script');
+      </script>
+    </div>
+    <!-- <div class="st-menu st-effect">
+      <div class="ui form">
+        <div class="field">
+          <label>Test</label>
+          <input type="text" />
+          <div class="ui button">ds</div>
+        </div>
+      </div>
+    </div> -->
 
-      <ul class="page-menu">
-      
-        <li><a href="/">Portfolio</a></li>
-      
-        <li><a href="/labs">Labs</a></li>
-      
-        <li><a href="/blog" class="is-current-page">Blog</a></li>
-      
-      </ul>
-    </header>
+    <div class="st-pusher">
+      <div class="st-content">
+        <div class="st-content-inner">
 
-    <section class="content">
+          <nav class="ui fixed inverted main menu">
+            <div class="container">
+              <a class="icon item" href="/"><i class="big home icon"></i></a>
+              <!-- <a class="icon item" href="/labs"><i class="big lab icon"></i></a> -->
+              <a class="icon item" href="https://github.com/nhodges" rel="nofollow" target="_blank"><i class="big github icon"></i></a>
+              <a class="icon item" href="https://twitter.com/typelife" rel="nofollow" target="_blank"><i class="big twitter icon"></i></a>
+              <a class="icon item" href="#" id="js-contact"><i class="big mail icon"></i></a>
+            </div>
+          </nav>
 
-      <h1 class="content-title">Blog</h1>
+          <section class="content blog">
 
-      
-        
-        <nav class="subpage-menu">
-          
-        </nav>
-      
+            <div class="content-sidebar">
+            
+              <h3 class="content-sidebar-heading">Dribbble</h3>
+              <ul id="js-feed-dribbble" class="shots"></ul>
+            
+            
+              
+            
+            </div>
 
-      
 
-      
+            <!-- <h1 class="content-title">Blog</h1> -->
 
-        
-        
-          <article class="post-preview">
-            <h2><a href="/blog/installing-ubuntu-nexus-7-2012-grouper">Installing Ubuntu on a Nexus 7 (2012/grouper)</a></h2>
-            I&rsquo;ve had an old Nexus 7 tablet (original, from 2012) lying around collecting dust, progressively getting slower with each and every Android operating system update. Personally, I find it difficult to part with technology before its true, functional end-of-life. Since the Nexus 7 is a pretty powerful machine, and the resale value is considerably low, I decided to try to put it to good use.
+            <div class="posts">
+            
+              <a href="/blog/the-hacker-manifesto" style="background-image: url();">
+                <span class="post-title">The Hacker Manifesto</span>
+                
+                <!-- 
+                <h2><a href="/blog/the-hacker-manifesto">The Hacker Manifesto</a></h2>
+                Originally published as &ldquo;The Conscience of a Hacker&rdquo; in Phrack by The Mentor (Loyd Blankenship) on January 8, 1986. Another one got caught today, it&rsquo;s all over the papers. &ldquo;Teenager Arrested in Computer Crime Scandal&rdquo;, &ldquo;Hacker Arrested after Bank Tampering&rdquo;&hellip; Damn kids. They&rsquo;re all alike. But did you, in your three-piece psychology and 1950&rsquo;s technobrain, ever take a look behind the eyes of the hacker? Did you ever wonder what made him tick, what forces shaped him, what may have molded him? I am a hacker, enter my world&hellip; Mine is a world that begins with school&hellip; I&rsquo;m smarter than...
+                <p><a href="/blog/the-hacker-manifesto">View post</a> -->
+              </a>
+            
+              <a href="/blog/a-new-hope" style="background-image: url();">
+                <span class="post-title">A New Hope</span>
+                
+                <!-- 
+                <h2><a href="/blog/a-new-hope">A New Hope</a></h2>
+                This past year has been one of tremendous change and growth, both for myself and the world. In this first post, I&rsquo;d like to take the opportunity to share some of the things I&rsquo;ve learned, worked on (successes and failures), and am looking forward to accomplishing in the coming year. August 12, 2015 Decided to embrace a vegan lifestyle. December 1, 2015 Established a regular exercise routine. This year, I would like to broaden my horizons in a few areas that have always been of interest to me, but never pursued in any routine fashion: Art I am challenging myself...
+                <p><a href="/blog/a-new-hope">View post</a> -->
+              </a>
+            
+            </div>
 
-For the tutorial, I&rsquo;m going to assume some basic familiarity (meaning it&rsquo;s installed already) with the Android platform tools, namely adb and fastboot.
+          </section>
+          <!-- https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.0/semantic.min.js -->
 
-            <p><a href="/blog/installing-ubuntu-nexus-7-2012-grouper">View post</a>
-          </article>
-        
+        </div><!-- /st-content-inner -->
+      </div><!-- /st-content -->
+    </div><!-- /st-pusher -->
 
-      
+  </div><!-- /st-container -->
 
-      
+  <script src="/js/classie.js"></script>
+  <script src="/js/sidebar.js"></script>
+  <script type="text/javascript">
+    $.jribbble.setToken('62e26b05e5f189d1a5f3e6941e1e880a7851823187981b92b6a9a7eb8bc2427c');
+    $.jribbble.users('nuri').likes({per_page: 16}).then(function(likes) {
+      console.log(likes);
+      var html = [];
+      likes.forEach(function(like) {
+        html.push('<li class="shots--shot">');
+        html.push('<a href="' + like.shot.html_url + '" target="_blank">');
+        html.push('<img src="' + like.shot.images.teaser + '">');
+        html.push('</a></li>');
+      });
+      $('#js-feed-dribbble').html(html.join(''));
+    });
+  </script>
 
-    </section><!-- /content -->
-  </div><!-- /wrap -->
 </body>
 </html>
