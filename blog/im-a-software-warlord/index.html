@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <title>irunbackwards.com | Blog</title>
-  <link rel="canonical" href="http://irunbackwards.com/blog" />
+  <title>irunbackwards.com | I'm a Software Warlord</title>
+  <link rel="canonical" href="http://irunbackwards.com/blog/im-a-software-warlord" />
   <link rel="alternate" type="application/rss+xml" href="http://irunbackwards.com/feed.xml" />
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" />
   <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.0/semantic.min.css" />
@@ -74,12 +74,9 @@
             </div>
           </nav>
 
-          <section class="content blog">
+          <section class="content piece">
 
             <div class="content-sidebar">
-            
-              <h3 class="content-sidebar-heading">Dribbble</h3>
-              <ul id="js-feed-dribbble" class="shots"></ul>
             
             
               
@@ -94,41 +91,42 @@
             </div>
 
 
-            <!-- <h1 class="content-title">Blog</h1> -->
+            <div class="content-main">
 
-            <div class="posts">
-            
-              <a href="/blog/im-a-software-warlord" style="background-image: url();">
-                <span class="post-title">I'm a Software Warlord</span>
+              <h1 class="content-title">I'm a Software Warlord</h1>
+
+              <p>This was an interesting research study that ranks you based on your cultural and technical aptitude, then gives you a militant categorization. <a href="http://vmob.me/DE1Q17VL?vl=rkqy6Z07x6">What kind of software developer are you?</a></p>
+
+<blockquote>
+<h2>You are the Software Warlord!</h2>
+
+<p>You’re in a position of influence and your experience has earned you the respect of your peers. You’re an overachiever, ambitious, driven, and goals-oriented and have a clear view of where you want to go next. You work at the very top level and have survived many adventures to get to where you are. You can tackle whatever difficulties you’re faced with - and command your way to victory!</p>
+</blockquote>
+
+<p><img src="/assets/irunbackwards-software-warlord.png" alt="Software Warlord"> </p>
+
+
+              
+
                 
-                <!-- 
-                <h2><a href="/blog/im-a-software-warlord">I'm a Software Warlord</a></h2>
-                This was an interesting research study that ranks you based on your cultural and technical aptitude, then gives you a militant categorization. What kind of software developer are you? You are the Software Warlord! You’re in a position of influence and your experience has earned you the respect of your peers. You’re an overachiever, ambitious, driven, and goals-oriented and have a clear view of where you want to go next. You work at the very top level and have survived many adventures to get to where you are. You can tackle whatever difficulties you’re faced with - and command your...
-                <p><a href="/blog/im-a-software-warlord">View post</a> -->
-              </a>
-            
-              <a href="/blog/the-hacker-manifesto" style="background-image: url();">
-                <span class="post-title">The Hacker Manifesto</span>
                 
-                <!-- 
-                <h2><a href="/blog/the-hacker-manifesto">The Hacker Manifesto</a></h2>
-                Originally published as &ldquo;The Conscience of a Hacker&rdquo; in Phrack by The Mentor (Loyd Blankenship) on January 8, 1986. Another one got caught today, it&rsquo;s all over the papers. &ldquo;Teenager Arrested in Computer Crime Scandal&rdquo;, &ldquo;Hacker Arrested after Bank Tampering&rdquo;&hellip; Damn kids. They&rsquo;re all alike. But did you, in your three-piece psychology and 1950&rsquo;s technobrain, ever take a look behind the eyes of the hacker? Did you ever wonder what made him tick, what forces shaped him, what may have molded him? I am a hacker, enter my world&hellip; Mine is a world that begins with school&hellip; I&rsquo;m smarter than...
-                <p><a href="/blog/the-hacker-manifesto">View post</a> -->
-              </a>
-            
-              <a href="/blog/a-new-hope" style="background-image: url();">
-                <span class="post-title">A New Hope</span>
+                  <strong>Tags (1 tags)</strong>
+                  <ul>
+                    
+                      <li><a href="/blog/tags/engineering">engineering</a></li>
+                    
+                  </ul>
                 
-                <!-- 
-                <h2><a href="/blog/a-new-hope">A New Hope</a></h2>
-                This past year has been one of tremendous change and growth, both for myself and the world. In this first post, I&rsquo;d like to take the opportunity to share some of the things I&rsquo;ve learned, worked on (successes and failures), and am looking forward to accomplishing in the coming year. August 12, 2015 Decided to embrace a vegan lifestyle. December 1, 2015 Established a regular exercise routine. This year, I would like to broaden my horizons in a few areas that have always been of interest to me, but never pursued in any routine fashion: Art I am challenging myself...
-                <p><a href="/blog/a-new-hope">View post</a> -->
-              </a>
-            
+
+              
+
+              
+                <p><a href="/blog">&larr; Back to Blog</a></p>
+              
+
             </div>
 
-          </section>
-          <!-- https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.12.0/semantic.min.js -->
+          </section><!-- /content -->
 
         </div><!-- /st-content-inner -->
       </div><!-- /st-content -->
@@ -138,20 +136,6 @@
 
   <script src="/js/classie.js"></script>
   <script src="/js/sidebar.js"></script>
-  <script type="text/javascript">
-    $.jribbble.setToken('62e26b05e5f189d1a5f3e6941e1e880a7851823187981b92b6a9a7eb8bc2427c');
-    $.jribbble.users('nuri').likes({per_page: 16}).then(function(likes) {
-      console.log(likes);
-      var html = [];
-      likes.forEach(function(like) {
-        html.push('<li class="shots--shot">');
-        html.push('<a href="' + like.shot.html_url + '" target="_blank">');
-        html.push('<img src="' + like.shot.images.teaser + '">');
-        html.push('</a></li>');
-      });
-      $('#js-feed-dribbble').html(html.join(''));
-    });
-  </script>
 
 </body>
 </html>

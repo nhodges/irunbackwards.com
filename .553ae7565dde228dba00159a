@@ -1,5 +1,5 @@
 ---
-time: 1471704398
+time: 1484713579
 inventory:
   "/portfolio/index.html":
     md5: 69eb60144610fbdb255c85ac16ec22dd
@@ -95,8 +95,11 @@ inventory:
     md5: d752c9e56e18c5e46f42c94e350758d1
     time: 1470708442
   "/blog/index.html":
-    md5: 36882533ebf879fc3c43c68dccfe3853
-    time: 1471704383
+    md5: c5c15f25b1b2a36b49d4039063cf1424
+    time: 1484713571
+  "/blog/im-a-software-warlord/index.html":
+    md5: cfa4927ac410a2ac449e42816fe637b4
+    time: 1484713571
   "/blog/the-hacker-manifesto/index.html":
     md5: b22571fac8e20b7287b6fc51be67be55
     time: 1471704384
@@ -104,20 +107,23 @@ inventory:
     md5: d0fb729f07d0c169b609ec30bfb04803
     time: 1471704384
   "/blog/archive/index.html":
-    md5: 0894362eb22b5ccfac9753b8a85c9338
-    time: 1471704384
+    md5: 3f1e1bc61f6b0a6548afd6777a327737
+    time: 1484713571
   "/blog/tags/index.html":
-    md5: cbcacf580dc457c7fbd5b9c0cd083d02
-    time: 1471704384
+    md5: d3ba00fae0a05fba9a4958f1d5825744
+    time: 1484713571
+  "/blog/tags/engineering/index.html":
+    md5: 79fe099a9f2bdc6894486ec46ac900d3
+    time: 1484713571
   "/CNAME":
     md5: 00d516aafeed45656bc0c4fc23c24312
     time: 1429955846
   "/sitemap.xml":
-    md5: 61bb973e6fc5d86c05b79cb47679fed5
-    time: 1471704384
+    md5: fb76f101ec6267b858da1f3748ffb90f
+    time: 1484713571
   "/feed.xml":
-    md5: 0050a99dd1b7e75d98568cfbdd88fbc3
-    time: 1471704384
+    md5: c4c21fc830671e1b16b4a875a4c09283
+    time: 1484713571
   "/assets/barterball.png":
     md5: 3c5829083c5a3ce4f0ed740ea3a9476d
     time: 1429955847
@@ -175,6 +181,9 @@ inventory:
   "/css/style.css":
     md5: a6ef584592a5feab213fdc9e26bda20f
     time: 1471704384
+  "/assets/irunbackwards-software-warlord.png":
+    md5: 7334e1f8c43edd3b7bcc7efc6b09aff3
+    time: 1484713571
   "/assets/fvelme-1.png":
     md5: f7152fb9bf7e683ac9aadc4a4761f469
     time: 1429955851
